@@ -22,39 +22,39 @@ $ python3 pano-general.py <path-to-directory-of-images> <index-to-reference-imag
 **Example-1**  
 Input Images
 <p align="center"> 
-![Input-1](data/general/yosemite/1.jpg){:height="100px"}
-![Input-2](data/general/yosemite/2.jpg){:height="100px"}
-![Input-3](data/general/yosemite/3.jpg){:height="100px"}
-![Input-4](data/general/yosemite/4.jpg){:height="100px"}
+<img src="data/general/yosemite/1.jpg" height="100">
+<img src="data/general/yosemite/2.jpg" height="100">
+<img src="data/general/yosemite/3.jpg" height="100">
+<img src="data/general/yosemite/4.jpg" height="100">
 </p>
 Panorama Mosaic Image
-<p align="center"> 
-![Yosemite](results/pano-general-results/yosemite/auto_yosemite_ref_2.jpg){:height="200px"}
+<p align="center">
+    <img src="results/pano-general-results/yosemite/auto_yosemite_ref_2.jpg" height="200">
 </p>
 
 **Example-2**  
 Input Images
 <p align="center"> 
-![Input-1](data/general/yard/1.jpg){:height="100px"}
-![Input-2](data/general/yard/2.jpg){:height="100px"}
-![Input-3](data/general/yard/3.jpg){:height="100px"}
-![Input-4](data/general/yard/4.jpg){:height="100px"}
-![Input-5](data/general/yard/5.jpg){:height="100px"}
+<img src="data/general/yard/1.jpg" height="100">
+<img src="data/general/yard/2.jpg" height="100">
+<img src="data/general/yard/3.jpg" height="100">
+<img src="data/general/yard/4.jpg" height="100">
+<img src="data/general/yard/5.jpg" height="100">
 </p>
 Panorama Mosaic Image
-<p align="center"> 
-![Yard](results/pano-general-results/yard/auto_yard_ref_3.jpg){:height="200px"}
+<p align="center">
+    <img src="results/pano-general-results/yard/auto_yard_ref_3.jpg" height="200">
 </p>
 
 **Example-3**  
 Input Images
 <p align="center"> 
-![Input-1](data/auto/society/1.jpg){:width="200px"}
-![Input-2](data/auto/society/2.jpg){:width="200px"}
+<img src="data/auto/society/1.jpg" width="200">
+<img src="data/auto/society/2.jpg" width="200">
 </p>
 Panorama Mosaic Image
-<p align="center"> 
-![Yard](results/pano-auto-results/society/auto_society_I1_reference.jpg){:width="400px"}
+<p align="center">
+    <img src="results/pano-auto-results/society/auto_society_I1_reference.jpg" width="400">
 </p>
 
 ### Authors
