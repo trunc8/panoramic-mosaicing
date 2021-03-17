@@ -57,7 +57,7 @@ Panorama Mosaic Image
     <img src="results/pano-auto-results/society/auto_society_I1_reference.jpg" width="400">
 </p>
 
-### Authors
+### Author
 
 * **Siddharth Saha** - [trunc8](https://github.com/trunc8)
 
